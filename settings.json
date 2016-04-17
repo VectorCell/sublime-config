@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Nexus.sublime-theme"
+}
