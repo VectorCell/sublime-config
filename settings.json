@@ -1,6 +1,10 @@
 {
 	"color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
 	"enable_tab_scrolling": false,
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"font_size": 8,
 	"ignored_packages":
 	[
