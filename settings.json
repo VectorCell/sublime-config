@@ -13,5 +13,9 @@
 	"overlay_scroll_bars": "enabled",
 	"show_encoding": true,
 	"show_line_endings": true,
+	"rulers":
+	[
+		80
+	],
 	"theme": "Nexus.sublime-theme"
 }
