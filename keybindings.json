@@ -4,5 +4,6 @@
 	{"keys": ["ctrl+alt+t"], "command": "toggle_tabs"},
 	{"keys": ["ctrl+alt+n"], "command": "toggle_minimap"},
 	{"keys": ["ctrl+alt+b"], "command": "toggle_status_bar"},
+	{"keys": ["ctrl+alt+v"], "command": "clone_file"},
 	{"keys": ["ctrl+alt+r"], "command": "permute_selection {\"operation\": \"reverse\"}"},
 ]
